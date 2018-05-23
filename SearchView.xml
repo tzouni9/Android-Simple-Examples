@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+ <SearchView
+        android:id="@+id/mySearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="@string/search_hint"
+        android:iconifiedByDefault="false" />

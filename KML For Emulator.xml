@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	
+	<Placemark>
+		<name>Pont 1</name>
+		<description>FirstPoint</description>
+		<Point>
+			<coordinates>37.4537,23.2537</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>Pont 2</name>
+		<description>SecondPoint</description>
+		<Point>
+			<coordinates>39.4537,17.2537</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>Pont 3</name>
+		<description>ThirdPoint</description>
+		<Point>
+			<coordinates>30.4537,22.2537</coordinates>
+		</Point>
+	</Placemark>
+	
+	<Placemark>
+		<name>Pont 1</name>
+		<description>FourthPoint</description>
+		<Point>
+			<coordinates>32.4537,20.2537</coordinates>
+		</Point>
+	</Placemark>
+	
+</kml>  
+
+<!-- ΠΑΡΑΔΕΙΓΜΑ ΑΡΧΕΙΟΥ KML ΓΙΑ ΠΡΟΣΟΜΟΙΩΣΗ ΣΗΜΕΙΩΝ GPS ΣΤΟΝ EMULATOR -->
+
